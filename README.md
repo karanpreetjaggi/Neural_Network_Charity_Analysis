@@ -15,23 +15,27 @@ For this project, I create a neural network by using Data Manipulation, creating
 2 Hidden Layers
 80 neurons (Layer1), 30 neurons(Layer2)
 Used Relu and Sigmoid Activations Functions and removed "USE_CASE_Other","AFFILIATION_Other" columns.
+
 ![Capture](https://user-images.githubusercontent.com/76858662/117715969-fe0ec380-b1a6-11eb-8d51-aefe5149801e.PNG)
 
 2. Attempt 2
 3 Hidden Layers
 80 neurons (Layer1), 30 neurons(Layer2), 15 neurons(Layer3)
 Used Relu and Sigmoid Activations Functions and removed "USE_CASE_Other","AFFILIATION_Other" columns.
+
 ![Capture](https://user-images.githubusercontent.com/76858662/117716145-3dd5ab00-b1a7-11eb-89d3-476a921c1440.PNG)
 
 3. Attempt 3
 3 Hidden Layers
 80 neurons(Layer1), 35 neurons(Layer2), 10 neurons (Layer3)
 Used Relu and Sigmoid Activations Functions.
+
 ![Capture](https://user-images.githubusercontent.com/76858662/117716457-9dcc5180-b1a7-11eb-9f7c-093f1ba9437a.PNG)
 
 4. Attempt 4
 3 Hidden Layers
 80 neurons (Layer1), 30 neurons(Layer2), 15 neurons (Layer3)
+
 ![Capture](https://user-images.githubusercontent.com/76858662/117716612-cf451d00-b1a7-11eb-8c3b-1e258ede8b42.PNG)
 
 ## Results
